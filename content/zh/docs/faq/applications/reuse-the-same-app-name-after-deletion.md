@@ -21,7 +21,7 @@ Weight: 16920
 
    ![redis-1](/images/docs/zh-cn/faq/applications/reuse-the-same-app-name-after-deletion/redis-1.png)
 
-2. 点击该应用访问其详情页，然后点击**删除**以删除应用。
+2. 点击该应用右侧的 <img src="/images/docs/zh-cn/faq/applications/reuse-the-same-app-name-after-deletion/three-dots.png" height="15px">，然后点击**删除**以删除应用。
 
    ![delete-redis-1](/images/docs/zh-cn/faq/applications/reuse-the-same-app-name-after-deletion/delete-redis-1.png)
 

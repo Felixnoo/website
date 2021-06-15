@@ -19,11 +19,11 @@ To deploy an app in KubeSphere, tenants can go to the App Store and select the a
 
 1. Log in to the web console of KubeSphere as `project-regular` and deploy an app from the App Store. This tutorial uses Redis as an example app and set the app name as `redis-1`. For more information about how to deploy Redis, refer to [Deploy Redis on KubeSphere](../../../application-store/built-in-apps/redis-app/).
 
-   ![redis-1](/images/docs/faq/applications/use-the-same-app-name-after-deletion/redis-1.PNG)
+   ![redis-1](/images/docs/faq/applications/use-the-same-app-name-after-deletion/redis_1.png)
 
-2. Click the app to go to its detail page, and then click **Delete** to delete it.
+2. Click <img src="/images/docs/faq/applications/use-the-same-app-name-after-deletion/three-dots.png" height="15px"> on the right of the app and then click **Delete** to delete it.
 
-   ![delete-redis-1](/images/docs/faq/applications/use-the-same-app-name-after-deletion/delete-redis-1.PNG)
+   ![delete-redis-1](/images/docs/faq/applications/use-the-same-app-name-after-deletion/delete-redis_1.png)
 
 ### Reuse the same app name
 
